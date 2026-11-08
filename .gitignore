@@ -1,18 +1,28 @@
 # Compiled class file
 *.class
 
+# Intellij
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+
 # Log file
 *.log
 
 # BlueJ files
 *.ctxt
 
+#macos
+.DS_Store
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
 #paths
-/target
-/volume
+target/
+volume/
 
 # Package Files #
 *.jar
